@@ -1,0 +1,9 @@
+Package: elw3tool
+Version: 1.0
+Section: main
+Priority: optional
+Architecture: all
+Depends: python-gtk2
+Maintainer: Anthony Cervantes
+Description: Soundcard Output
+ Allows to test and change soundcard output. Created by Elw3.

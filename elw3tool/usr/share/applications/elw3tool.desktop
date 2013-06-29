@@ -1,0 +1,13 @@
+[Desktop Entry]
+Hidden=false
+Exec=elw3tool
+Icon=audio-card
+Type=Application
+Categories=Application;Utility;
+NoDisplay=false
+StartupNotify=true
+Comment=Allows to test and change soundcard output.
+Terminal=false
+Name=Soundcard Output
+GenericName=
+Comment[en_US]=Allows to test and change soundcard output.
